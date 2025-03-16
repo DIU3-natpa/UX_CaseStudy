@@ -83,7 +83,7 @@ CANAN DEMIR
 ![Usability-review_page-0004](https://github.com/user-attachments/assets/8babfce5-27cb-4fc6-b3b7-d2ff62a4e23f)
 ![Usability-review_page-0005](https://github.com/user-attachments/assets/8d11ba73-2db0-4b10-9038-6a2f63cdff9f)
 
-
+[Usability Review en PDF](P1/Usability_Review/Usability-Review.pdf)
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
