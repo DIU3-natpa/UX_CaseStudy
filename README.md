@@ -75,6 +75,8 @@ Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace c
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+IVÁN GÓMEZ
+![ivan_journey](https://github.com/user-attachments/assets/912c6ec3-294d-49e3-b675-d6ddff868d8e)
 
 
 CANAN DEMIR
