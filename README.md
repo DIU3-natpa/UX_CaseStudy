@@ -77,6 +77,10 @@ Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace c
 ----
 IVÁN GÓMEZ
 ![ivan_journey](https://github.com/user-attachments/assets/912c6ec3-294d-49e3-b675-d6ddff868d8e)
+Esta satisfecho con el resultado ya que consiguio lo que necesitaba, sin embargo le ha costado más esfuerzo del que pensaba y no ha quedado agradecido del todo con la atención recibida.
+Podemos encontrar los recursos de esta persona en:<br>
+-[Formato Fig](P1/Personas/Persona_1.fig)<br>
+-[Formato PDF](P1/Personas/persona1_journey_map.pdf)<br>
 
 
 CANAN DEMIR
