@@ -52,12 +52,16 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+>>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
+Hemos elegido moda re- debido a que c
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+IVÁN GÓMEZ
+![ivan](https://github.com/user-attachments/assets/68b602a7-181a-4502-9171-49c12492af22)
+
 
 
 CANAN DEMIR
