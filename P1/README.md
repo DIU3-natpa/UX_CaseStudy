@@ -1,10 +1,10 @@
 ## DIU - Practica1, entregables
 
 
-- Desk research: Análisis Competencia 
+- [Desk research: Análisis Competencia](Competitor Analysis.jam)
 - [2 Personas](Personas) 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+- [2 User Journey Map  ( 1 por persona)](Personas)
+- [Revisión de Usabilidad](Usability_Review)
 
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
