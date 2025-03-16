@@ -48,6 +48,7 @@ Miembros:
 ![plan2](https://github.com/user-attachments/assets/f9d86389-8b54-45c5-8fec-9db7f581e0f8)
 ![plan3](https://github.com/user-attachments/assets/c950a418-36ea-4205-9b1e-9da8231aeba1)
 ![plan4](https://github.com/user-attachments/assets/59432041-09d0-41ae-87b9-f0926c76a6e8)
+[User_Research_Plan_Template.pdf](https://github.com/user-attachments/files/19273989/User_Research_Plan_Template.pdf)
 
 
 
