@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Natalia García Ortega     :octocat: https://github.com/ntlagrc    
- * :bust_in_silhouette:  Pablo Fernandez     :octocat: https://github.com/pablofernandz
+ * :bust_in_silhouette:  Pablo Fernández Tello     :octocat: https://github.com/pablofernandz
 
 ----- 
 
