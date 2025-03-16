@@ -2,7 +2,7 @@
 
 
 - Desk research: Análisis Competencia 
-- [2 Personas](P1/Personas) 
+- [2 Personas](Personas) 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
