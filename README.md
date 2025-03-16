@@ -77,6 +77,13 @@ CANAN DEMIR
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+![Usability-review_page-0001](https://github.com/user-attachments/assets/f512115b-a104-4020-95e2-51698b003d44)
+![Usability-review_page-0002](https://github.com/user-attachments/assets/49a4cfdb-6f4c-42cf-9bbe-996da2395a80)
+![Usability-review_page-0003](https://github.com/user-attachments/assets/b72e16c9-b7cc-4d1d-b005-a56b6d2e366d)
+![Usability-review_page-0004](https://github.com/user-attachments/assets/8babfce5-27cb-4fc6-b3b7-d2ff62a4e23f)
+![Usability-review_page-0005](https://github.com/user-attachments/assets/8d11ba73-2db0-4b10-9038-6a2f63cdff9f)
+
+
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
