@@ -94,7 +94,7 @@ Conclusion: La página web ha obtenido una puntuación de 69 sobre 100. Lo que l
 
 Podemos encontrar tambien el [Resumen Valoración de la Practica](P1/Usability_Review/ResumenValoracion.pdf)
 <br>
-----
+
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
