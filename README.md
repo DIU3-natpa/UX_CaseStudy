@@ -60,8 +60,6 @@ Miembros:
 CANAN DEMIR
 <img width="1024" alt="Persona_2" src="https://github.com/user-attachments/assets/f36f6538-bc53-4d47-8b31-ef62213b4606" />
 
-Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace contenido online. Le encanta hacer manualidades como el macrame o el crochet, con el que se hace sus propias prendas de ropa. Le gusta mucho viajar e involucrarse en la vida y cultura local. Siempre que puede busca nuevas forma de ayudar a la gente. Es muy independiente por lo que no suele pedir ayuda cuando tiene algun problema. No se le dan mal los idiomas, actualmente habla: turco, inglés y español; esta aprendiendo catalán y en un futuo le gustaría aprender más
-
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
