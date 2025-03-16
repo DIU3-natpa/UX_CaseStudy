@@ -79,8 +79,7 @@ Podemos encontrar los recursos de esta persona en:<br>
 -[Formato Fig](P1/Personas/Persona2.fig)<br>
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-<br>
-----
+
 ### 1.e Usability Review
 ![Usability-review_page-0001](https://github.com/user-attachments/assets/f512115b-a104-4020-95e2-51698b003d44)
 ![Usability-review_page-0002](https://github.com/user-attachments/assets/49a4cfdb-6f4c-42cf-9bbe-996da2395a80)
