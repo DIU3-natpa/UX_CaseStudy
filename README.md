@@ -62,6 +62,8 @@ Hemos elegido moda re- debido a que c
 IVÁN GÓMEZ
 ![ivan](https://github.com/user-attachments/assets/68b602a7-181a-4502-9171-49c12492af22)
 
+Iván es una persona tranquila y trabajadora. Toda su vida ha sido pescador en Algeciras, siguiendo el oficio que aprendió de su familia desde joven. Sin embargo, hace unos años, durante un fuerte temporal, perdió su barco, que era no solo su medio de vida, sino también su mayor inversión y esfuerzo. Desde entonces, ha tenido dificultades para encontrar estabilidad económica y se ha visto obligado a buscar trabajos eventuales para poder salir adelante. Vive de forma humilde, priorizando siempre cubrir lo básico. Ante esta situación, Iván ha conocido la web de Moda Re-, un proyecto solidario que le permite acceder a ropa de segunda mano a precios asequibles y con una visión sostenible. Para él, no solo es una oportunidad para renovar su vestimenta sin gastar mucho, sino también una manera de sentir apoyo y dignidad en un momento complicado. Su perfil representa a personas que, pese a las adversidades, buscan alternativas responsables y accesibles para mejorar su día a día.
+
 
 
 CANAN DEMIR
