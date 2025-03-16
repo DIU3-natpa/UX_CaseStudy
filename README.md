@@ -86,8 +86,9 @@ Enlaces a los recursos: <br>
  -[Usability Review en PDF](P1/Usability_Review/Usability-review.pdf) <br>
  -[Usability Review en Excel](P1/Usability_Review/Usability-review.xlsx) <br>
 
-Conclusion: La página web ha obtenido una puntuación de 69 sobre 100. Lo que la sitúa en el rango denominado como 'good'
+Conclusion: La página web ha obtenido una puntuación de 69 sobre 100. Lo que la sitúa en el rango denominado como 'good' <br>
 
+Podemos encontrar tambien el [Resumen Valoración de la Practica](P1/Usability_Review/ResumenValoracion.pdf)
 <br>
 
 ## Paso 2. UX Design  
