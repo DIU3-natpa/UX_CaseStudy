@@ -82,12 +82,11 @@ CANAN DEMIR
 ![Usability-review_page-0003](https://github.com/user-attachments/assets/b72e16c9-b7cc-4d1d-b005-a56b6d2e366d)
 ![Usability-review_page-0004](https://github.com/user-attachments/assets/8babfce5-27cb-4fc6-b3b7-d2ff62a4e23f)
 ![Usability-review_page-0005](https://github.com/user-attachments/assets/8d11ba73-2db0-4b10-9038-6a2f63cdff9f)
-
 Enlaces a los recursos: <br>
  -[Usability Review en PDF](P1/Usability_Review/Usability-review.pdf) <br>
  -[Usability Review en Excel](P1/Usability_Review/Usability-review.xlsx) <br>
 
-Conclusion: La página web ha obtenido una puntuación de 69 sobre 100. Lo que la situa en el rango denominado como 'good'
+Conclusion: La página web ha obtenido una puntuación de 69 sobre 100. Lo que la sitúa en el rango denominado como 'good'
 
 <br>
 
