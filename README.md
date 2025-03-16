@@ -73,7 +73,7 @@ Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace c
 CANAN DEMIR
 ![User_Journey_Map_P2](https://github.com/user-attachments/assets/d40364bd-49e5-4157-b9af-a060967cb6fd)
 
-Su experiencia ha sido positiva, ya que la web se ha ajustado sus necesidades. Aunque el uso de la página que ha hecho Canan no es completamente el usual, para los usuarios que la usan con el rol de donador, ha sidocbastatnte similar.<br>
+Su experiencia ha sido positiva, ya que la web se ha ajustado sus necesidades. Aunque el uso de la página que ha hecho Canan no es completamente el usual, para los usuarios que la usan con el rol de donador, ha sido bastante similar.<br>
 Podemos encontrar los recursos de esta persona en:<br>
 -[Formato PDF](P1/Personas/Persona_y_User_Journey_Map_P2.pdf)<br>
 -[Formato Fig](P1/Personas/Persona2.fig)<br>
