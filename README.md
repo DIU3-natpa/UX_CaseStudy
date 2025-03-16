@@ -60,6 +60,8 @@ Miembros:
 CANAN DEMIR
 <img width="1024" alt="Persona_2" src="https://github.com/user-attachments/assets/f36f6538-bc53-4d47-8b31-ef62213b4606" />
 
+Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace contenido online. Le encanta hacer manualidades como el macrame o el crochet, con el que se hace sus propias prendas de ropa. Le gusta mucho viajar e involucrarse en la vida y cultura local. Siempre que puede busca nuevas forma de ayudar a la gente. Es muy independiente por lo que no suele pedir ayuda cuando tiene algun problema. No se le dan mal los idiomas, actualmente habla: turco, inglés y español; esta aprendiendo catalán y en un futuo le gustaría aprender más
+
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
@@ -70,6 +72,11 @@ CANAN DEMIR
 
 CANAN DEMIR
 ![User_Journey_Map_P2](https://github.com/user-attachments/assets/d40364bd-49e5-4157-b9af-a060967cb6fd)
+
+Su experiencia ha sido positiva, ya que la web se ha ajustado sus necesidades. Aunque el uso de la página que ha hecho Canan no es completamente el usual, para los usuarios que la usan con el rol de donador, ha sidocbastatnte similar.<br>
+Podemos encontrar los recursos de esta persona en:<br>
+-[Formato PDF](P1/Personas/Persona_y_User_Journey_Map_P2.pdf)<br>
+-[Formato Fig](P1/Personas/Persona2.fig)<br>
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
