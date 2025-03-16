@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_natpa.  Curso: 2024/25 
 
-Actualizado: 15/03/2025
+Actualizado: 16/03/2025
 
 Proyecto: 
 
@@ -35,7 +35,6 @@ Miembros:
 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
 -----
 
 ![plan1](https://github.com/user-attachments/assets/c098e5a7-c1e7-4e3b-8e28-cdf61591b5b2)
@@ -49,7 +48,6 @@ P1/User_Research_Plan_Template.pdf
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 
 Taller de Moda de Reciclaje (Re-made in Granada)
@@ -68,7 +66,6 @@ análisis competitivo y de afinar más en lo que a UX se refiere.
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
 -----
 IVÁN GÓMEZ
 ![ivan](https://github.com/user-attachments/assets/68b602a7-181a-4502-9171-49c12492af22)
@@ -80,13 +77,10 @@ Iván es una persona tranquila y trabajadora. Toda su vida ha sido pescador en A
 CANAN DEMIR
 <img width="1024" alt="Persona_2" src="https://github.com/user-attachments/assets/f36f6538-bc53-4d47-8b31-ef62213b4606" />
 
-Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace contenido online. Le encanta hacer manualidades como el macrame o el crochet, con el que se hace sus propias prendas de ropa. Le gusta mucho viajar e involucrarse en la vida y cultura local. Siempre que puede busca nuevas forma de ayudar a la gente. Es muy independiente por lo que no suele pedir ayuda cuando tiene algun problema. No se le dan mal los idiomas, actualmente habla: turco, inglés y español; esta aprendiendo catalán y en un futuo le gustaría aprender más
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Estuadiante de Marketing en Barcelona de origen turco, en su tiempo libre hace contenido online. Le encanta hacer manualidades como el macrame o el crochet, con el que se hace sus propias prendas de ropa. Le gusta mucho viajar e involucrarse en la vida y cultura local. Siempre que puede busca nuevas forma de ayudar a la gente. Es muy independiente por lo que no suele pedir ayuda cuando tiene algun problema. No se le dan mal los idiomas, actualmente habla: turco, inglés y español; esta aprendiendo catalán y en un futuo le gustaría aprender más  
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
 ----
 IVÁN GÓMEZ
 ![ivan_journey](https://github.com/user-attachments/assets/912c6ec3-294d-49e3-b675-d6ddff868d8e)
