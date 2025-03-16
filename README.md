@@ -42,7 +42,7 @@ Miembros:
 ![plan2](https://github.com/user-attachments/assets/f9d86389-8b54-45c5-8fec-9db7f581e0f8)
 ![plan3](https://github.com/user-attachments/assets/c950a418-36ea-4205-9b1e-9da8231aeba1)
 ![plan4](https://github.com/user-attachments/assets/59432041-09d0-41ae-87b9-f0926c76a6e8)
-[User_Research_Plan_Template.pdf](https://github.com/user-attachments/files/19273989/User_Research_Plan_Template.pdf)
+P1/User_Research_Plan_Template.pdf
 
 
 
@@ -53,7 +53,20 @@ Miembros:
 -----
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
-Hemos elegido moda re- debido a que c
+Características de las Webs Analizadas
+Taller de Moda de Reciclaje (Re-made in Granada)
+Tiene un diseño muy básico y estático, ess una página sencilla con poca interactividad. Contenido principalmente informativo: Explica el proyecto, talleres y colaboraciones, pero no tiene tienda online.
+Es una web sin funcionalidades de compra, no permite adquirir productos ni interactuar directamente. Poca actualización y navegación simple, contenido fijo, con pocas secciones y enlaces.
+
+Kerarqueo Artesanía
+Es una tienda online dedicada a productos artesanales. La web destaca por un diseño más visual y cuidado, con fotografías de alta calidad y catálogo de productos con descripciones detalladas, 
+varias secciones informativas sobre los procesos artesanales y un proceso de compra funcional pero algo más extenso y detallado.
+
+Moda Re-
+Es una página informativa centrada en la moda sostenible y la reutilización de ropa. Tiene un diseño sencillo, con una estructura clara y organizada. No cuenta con tienda online, sino que ofrece información sobre sus puntos físicos de venta y recogida de ropa usada. La web dispone de un localizador de tiendas y contenedores, facilitando que el usuario encuentre ubicaciones cercanas. También tiene secciones dedicadas a explicar el proyecto social, formas de colaboración y noticias relacionadas con la moda circular. No tiene funcionalidades interactivas complejas ni opción de compra directa, y su navegación es fácil e intuitiva, enfocada en informar y sensibilizar al usuario sobre su labor social y medioambiental.
+
+Hemos elegido esta última debido a la gran cantidad de tiendas online tanto de segunda mano como de productos nuevos que hay en el mercado, lo que nos puede ser util a la hora de realizar un buen
+análisis competitivo y de afinar más en lo que a UX se refiere.
 
 
 ### 1.c Personas
