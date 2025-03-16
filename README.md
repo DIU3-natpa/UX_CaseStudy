@@ -42,7 +42,15 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+>>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.
+
+![plan1](https://github.com/user-attachments/assets/c098e5a7-c1e7-4e3b-8e28-cdf61591b5b2)
+![plan2](https://github.com/user-attachments/assets/f9d86389-8b54-45c5-8fec-9db7f581e0f8)
+![plan3](https://github.com/user-attachments/assets/c950a418-36ea-4205-9b1e-9da8231aeba1)
+![plan4](https://github.com/user-attachments/assets/59432041-09d0-41ae-87b9-f0926c76a6e8)
+
+
+
 
 
 ### 1.b Competitive Analysis
