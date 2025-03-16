@@ -79,11 +79,9 @@ Podemos encontrar los recursos de esta persona en:<br>
 -[Formato Fig](P1/Personas/Persona2.fig)<br>
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
-
-### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+<br>
 ----
+### 1.e Usability Review
 ![Usability-review_page-0001](https://github.com/user-attachments/assets/f512115b-a104-4020-95e2-51698b003d44)
 ![Usability-review_page-0002](https://github.com/user-attachments/assets/49a4cfdb-6f4c-42cf-9bbe-996da2395a80)
 ![Usability-review_page-0003](https://github.com/user-attachments/assets/b72e16c9-b7cc-4d1d-b005-a56b6d2e366d)
@@ -97,7 +95,7 @@ Conclusion: La página web ha obtenido una puntuación de 69 sobre 100. Lo que l
 
 Podemos encontrar tambien el [Resumen Valoración de la Practica](P1/Usability_Review/ResumenValoracion.pdf)
 <br>
-
+----
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
