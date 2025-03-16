@@ -52,8 +52,6 @@ P1/User_Research_Plan_Template.pdf
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
-Características de las Webs Analizadas
 Taller de Moda de Reciclaje (Re-made in Granada)
 Tiene un diseño muy básico y estático, ess una página sencilla con poca interactividad. Contenido principalmente informativo: Explica el proyecto, talleres y colaboraciones, pero no tiene tienda online.
 Es una web sin funcionalidades de compra, no permite adquirir productos ni interactuar directamente. Poca actualización y navegación simple, contenido fijo, con pocas secciones y enlaces.
