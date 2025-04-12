@@ -119,7 +119,6 @@ Podemos encontrar tambien el [Resumen Valoración de la Practica](P1/Usability_R
 Programa de Donaciones
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
 ----
 EMPATHY MAP<br>
 <img width="4742" alt="Empathy_Map" src="https://github.com/user-attachments/assets/ebf3d331-cf00-423d-a021-a27b0f46785c" />
@@ -140,7 +139,6 @@ Enlaces a los recursos: <br>
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
 ----
 
 Propusta de valor: Programa de Donaciones<br>
