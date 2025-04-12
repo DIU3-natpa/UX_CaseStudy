@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_natpa.  Curso: 2024/25 
 
-Actualizado: 16/03/2025
+Actualizado: 12/04/2025
 
 Proyecto: 
 
