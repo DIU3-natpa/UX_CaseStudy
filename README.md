@@ -9,11 +9,11 @@ Actualizado: 16/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Programa de donaciones
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Va a consistir en una suscripcion trimestral en la web, en la que el usuario va a poder elegir si quiere ser donador o beneficiario. El programa se dedica a distribuir estos lotes de ropa que se proporcionan cada 3 meses.
 
 Logotipo: 
 
