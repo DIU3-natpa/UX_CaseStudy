@@ -116,30 +116,39 @@ Podemos encontrar tambien el [Resumen Valoración de la Practica](P1/Usability_R
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Programa de Donaciones
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+EMPATHY MAP<br>
+<img width="4742" alt="Empathy_Map" src="https://github.com/user-attachments/assets/ebf3d331-cf00-423d-a021-a27b0f46785c" />
+Enlaces a los recursos: <br>
+-[Empathy Map formato PNG](P2/Ideacion/Empathy_Map.png)<br>
+-[Empathy Map formato PDF](P2/Ideacion/Empathy_Map.pdf)<br>
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+POV/INSIGHT <br>
+![POV_1](https://github.com/user-attachments/assets/cddd51c5-3425-4dec-8b4d-2054f4d04f83)
+![POV_2](https://github.com/user-attachments/assets/4425fc9b-3b14-4c81-b3c6-ad6f3bd8b791)
+![POV_3](https://github.com/user-attachments/assets/df990e71-caf9-4859-9dcd-215cb9aed915)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Enlaces a los recursos: <br>
+-[POV1 formato PNG](P2/Ideacion/POV_1.png)<br>
+-[POV2 formato PNG](P2/Ideacion/POV_2.png)<br>
+-[POV2 formato PNG](P2/Ideacion/POV_3.png)<br>
+-[POVs formato PDF](P2/Ideacion/POV.pdf)<br>
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Propusta de valor: Programa de Donaciones<br>
+![ScopeCanvas](https://github.com/user-attachments/assets/ff8ce61e-c21d-4923-8e8c-51be4fdb870a)
+
+Enlaces a los recursos: <br>
+-[ScopeCanvas formato PNG](P2/Prouesta_de_valor/ScopeCanvas.png)<br>
+-[ScopeCanvas formato PDF](P2/Prouesta_de_valor/ScopeCanvas.pdf)<br>
 
 
 
