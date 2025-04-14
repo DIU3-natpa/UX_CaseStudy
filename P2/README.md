@@ -23,7 +23,7 @@
 
 
 ### Prototipo Lo-FI Wireframe 
-P2/Prototipo
+https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P2/Prototipo
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
