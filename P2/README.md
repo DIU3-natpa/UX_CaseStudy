@@ -22,7 +22,7 @@
 * Labelling 
 
 
-### Prototipo Lo-FI Wireframe 
+### [Prototipo Lo-FI Wireframe](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P2/Prototipo)
 [Prototipo](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P2/Prototipo)
 
 ### Conclusiones  
