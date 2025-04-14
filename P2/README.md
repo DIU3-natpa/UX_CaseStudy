@@ -6,7 +6,7 @@
 * Point of View 
 
 
-### PROPUESTA DE VALOR
+### [PROPUESTA DE VALOR](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P2/Prouesta_de_valor)
 * ScopeCanvas
 
 
