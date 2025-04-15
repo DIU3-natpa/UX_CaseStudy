@@ -155,6 +155,13 @@ Enlaces a los recursos: <br>
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+>>>
+Hemos definido las tareas más importantes de nuestra funcionalidad en una matriz de tareas de usuario.
+Estas tareas son donar y recibir ropa ya que nuestra funcionalidad añadida es la de incluir un programa de donación
+de ropa al que puedes suscribirte y donar o recibir ropa trimestralmente.
+En esta podemos ver que acciones pueden hacer cada uno de los dos tipos de usuarios generales:
+
+[user_task_matrix.pdf](https://github.com/user-attachments/files/19762831/user_task_matrix.pdf)
 
 
 ### 2.c IA: Sitemap + Labelling 
