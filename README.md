@@ -174,11 +174,14 @@ por el sistema hasta conseguir ambos objetivos: donar y recibir.
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Así es como quedaría la navegación por nuestro sistema y el labelling
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+![sitemap](https://github.com/user-attachments/assets/044edae3-19ee-498b-aaef-6429c6208325)
+
+![Captura de pantalla 2025-04-15 193444](https://github.com/user-attachments/assets/0a107fe7-8a0d-4726-a4ee-cd8eb6601bbc)
+
+
+
 
 
 ### 2.d Wireframes
