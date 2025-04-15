@@ -16,7 +16,7 @@
 * User/Task flow
 
 
-### ARQUITECTURA DE INFORMACIÓN
+### [ARQUITECTURA DE INFORMACIÓN](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P2/Arquitectura%20de%20informacion)
 
 * Sitemap 
 * Labelling 
