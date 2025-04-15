@@ -154,14 +154,19 @@ Enlaces a los recursos: <br>
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
->>>
 Hemos definido las tareas más importantes de nuestra funcionalidad en una matriz de tareas de usuario.
 Estas tareas son donar y recibir ropa ya que nuestra funcionalidad añadida es la de incluir un programa de donación
 de ropa al que puedes suscribirte y donar o recibir ropa trimestralmente.
 En esta podemos ver que acciones pueden hacer cada uno de los dos tipos de usuarios generales:
 
 ![Captura de pantalla 2025-04-15 192556](https://github.com/user-attachments/assets/e03cc864-9870-42d2-b2e1-253f00bfc7ab)
+
+Además hemos diseñado dos user flow con cada una de esas dos acciones para representar como sería la navegación
+por el sistema hasta conseguir ambos objetivos: donar y recibir.
+
+![Captura de pantalla 2025-04-15 192939](https://github.com/user-attachments/assets/13988d06-ab6f-435a-8706-72de2261257b)
+
+![Captura de pantalla 2025-04-15 193046](https://github.com/user-attachments/assets/c6d2cfa7-6714-4497-9909-495443ed2709)
 
 
 
