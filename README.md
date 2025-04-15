@@ -161,7 +161,8 @@ Estas tareas son donar y recibir ropa ya que nuestra funcionalidad añadida es l
 de ropa al que puedes suscribirte y donar o recibir ropa trimestralmente.
 En esta podemos ver que acciones pueden hacer cada uno de los dos tipos de usuarios generales:
 
-[user_task_matrix.pdf](https://github.com/user-attachments/files/19762831/user_task_matrix.pdf)
+![Captura de pantalla 2025-04-15 192556](https://github.com/user-attachments/assets/e03cc864-9870-42d2-b2e1-253f00bfc7ab)
+
 
 
 ### 2.c IA: Sitemap + Labelling 
