@@ -188,7 +188,12 @@ Así es como quedaría la navegación por nuestro sistema y el labelling
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móvil y tablet diseñado con figma:
+
+![catalogo_movil](https://github.com/user-attachments/assets/c7c56a45-9585-4eb5-9828-1c93cf9eab8d)
+
+![catalogo_tablet](https://github.com/user-attachments/assets/22b234d2-bf76-4a5e-9d98-445a7b22de40)
+
 
 <br>
 
