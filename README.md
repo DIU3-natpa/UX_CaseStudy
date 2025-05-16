@@ -221,8 +221,26 @@ Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móv
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Esta guía de estilo establece los lineamientos visuales y estructurales utilizados en el diseño de la interfaz del sitio web "MODA RE", desarrollada en Figma utilizando el Material 3 Design Kit como base. Su propósito es asegurar la coherencia visual, la accesibilidad y la correcta implementación del sistema de diseño en todas las pantallas del producto sin perder la identidad visual del proyecto.
+
+1. Paleta de Colores
+La paleta de colores está basada en tonos naturales y suaves que reflejan los valores ecológicos y sociales de "MODA RE". Se han definido los siguientes estilos de color:
+    • Primary / Verde: usado para botones principales y elementos destacados.
+    • Secondary / Verde Claro: aplicado en fondos de tarjetas informativas.
+    • Accent / Terracota: utilizado en contornos decorativos para dar calidez visual.
+    • Neutral / Gris suave: fondo principal del sitio.
+    • Neutral / Gris Oscuro: aplicado en el footer y textos secundarios.
+      
+2. Componentes
+Los componentes fueron diseñados con consistencia visual y funcional:
+    • Botones: estilo relleno (filled), esquinas redondeadas, estados normal y hover definidos.
+    • Tarjetas informativas: bloques con fondo verde claro y contornos suaves, adaptados para comunicar acciones como "Donar" o "Recibir".
+    • Inputs y Selects: campos de formulario con íconos, siguiendo el sistema Material 3 Design kit.
+    • Footer: contiene enlaces secundarios y redes sociales, con un diseño compacto y claro.
+      
+3. Navegación e Interacción
+    • El diseño incluye navegación tipo "hamburguesa" en mobile, íconos accesibles, y jerarquía visual clara para orientar al usuario.
+    • Se han incorporado microinteracciones visuales (por ejemplo, para confirmar donaciones) o menús desplegables
 
 
 ### 3.d Mockup
