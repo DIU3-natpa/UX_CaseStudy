@@ -249,7 +249,11 @@ Los componentes fueron diseñados con consistencia visual y funcional:
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
+
+https://github.com/user-attachments/assets/a4168d1a-9232-44e1-89e2-1e417e0681a9
+
+
 
 
 ### 3.e ¿My UX-Case Study?
