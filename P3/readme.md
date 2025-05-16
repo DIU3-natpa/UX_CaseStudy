@@ -1,6 +1,6 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo) (https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P3/Moodboard) 
+- [Moodboard (diseño visual + logotipo)] (https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P3/Moodboard) 
 - Landing Page
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
