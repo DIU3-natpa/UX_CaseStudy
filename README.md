@@ -242,6 +242,8 @@ Los componentes fueron diseñados con consistencia visual y funcional:
     • El diseño incluye navegación tipo "hamburguesa" en mobile, íconos accesibles, y jerarquía visual clara para orientar al usuario.
     • Se han incorporado microinteracciones visuales (por ejemplo, para confirmar donaciones) o menús desplegables
 
+![Captura de pantalla 2025-05-16 175849](https://github.com/user-attachments/assets/94c81357-6421-4e4f-b186-d853b6c10f66)
+
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
