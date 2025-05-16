@@ -207,10 +207,10 @@ Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móv
 -----
 ![Captura de pantalla 2025-05-16 174640](https://github.com/user-attachments/assets/5ee78961-a8e7-4cb8-a9ae-5824a56a7980)
 
+![logo_2](https://github.com/user-attachments/assets/a4dc5743-a7e7-4987-90d7-421a10c50e74)
 
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
+
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
