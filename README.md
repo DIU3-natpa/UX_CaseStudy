@@ -205,6 +205,9 @@ Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móv
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+![Captura de pantalla 2025-05-16 174640](https://github.com/user-attachments/assets/5ee78961-a8e7-4cb8-a9ae-5824a56a7980)
+
+
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
