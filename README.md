@@ -210,10 +210,6 @@ Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móv
 ![logo_2](https://github.com/user-attachments/assets/a4dc5743-a7e7-4987-90d7-421a10c50e74)
 
 
-
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
-
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
