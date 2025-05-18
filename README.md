@@ -151,8 +151,7 @@ Enlaces a los recursos: <br>
 
 
 
-### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+### 2.b User Flow (task) analysis  
 -----
 
 Hemos definido las tareas más importantes de nuestra funcionalidad en una matriz de tareas de usuario.
@@ -171,8 +170,7 @@ por el sistema hasta conseguir ambos objetivos: donar y recibir.
 
 
 
-### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+### 2.c IA: Sitemap + Labelling  
 ----
 
 Así es como quedaría la navegación por nuestro sistema y el labelling
@@ -186,7 +184,6 @@ Así es como quedaría la navegación por nuestro sistema y el labelling
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
 -----
 
 Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móvil y tablet diseñado con figma:
@@ -243,7 +240,6 @@ Los componentes fueron diseñados con consistencia visual y funcional:
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
 ----
 
 
@@ -253,10 +249,9 @@ https://github.com/user-attachments/assets/a4168d1a-9232-44e1-89e2-1e417e0681a9
 
 
 
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
+### 3.e My UX-Case Study
 -----
-Hemos documentado todo el proceso de este trabajo en este repositorio github. Si quiere consultar mas informacion acerca de la ultima practe de nuestro proyecto puedes hacerlo aqui:
+Hemos documentado todo el proceso de este trabajo en este repositorio de GitHub. Si quieres consultar más información acerca de la última parte de nuestro proyecto, puedes hacerlo aquí:
 [Case Study P3](P3/)
 
 <br>
