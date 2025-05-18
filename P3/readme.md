@@ -43,7 +43,3 @@ Miembros:
 https://github.com/user-attachments/assets/018e7a47-1269-4fd2-b206-6ffa90c578e1
 
 
-  
-- [Mockup: LAYOUT HI-FI](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P3/Mockup) 
-- Publicación del Case Study 
-
