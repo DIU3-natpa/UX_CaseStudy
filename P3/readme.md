@@ -29,9 +29,21 @@ Miembros:
 - [Moodboard (diseño visual + logotipo)](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P3/Moodboard)
 
 ## Landing Page
+
+![LandingPage](https://github.com/user-attachments/assets/940a01e4-fd22-447a-8052-e6bb0dcb7c0f)
+
+
 - [Landing Page](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P3/LandingPage)
 
-  ## Mockup
+## Mockup
+
+![Mockup](https://github.com/user-attachments/assets/14d0b7d9-29fa-4ada-8658-90bd95cae6b6)
+
+
+https://github.com/user-attachments/assets/018e7a47-1269-4fd2-b206-6ffa90c578e1
+
+
+  
 - [Mockup: LAYOUT HI-FI](https://github.com/DIU3-natpa/UX_CaseStudy/tree/master/P3/Mockup) 
 - Publicación del Case Study 
 
