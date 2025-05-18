@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU3_natpa.  Curso: 2024/25 
 
-Actualizado: 12/04/2025
+Actualizado: 18/05/2025
 
 Proyecto: 
 
@@ -17,7 +17,8 @@ Va a consistir en una suscripcion trimestral en la web, en la que el usuario va 
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![logo](https://github.com/user-attachments/assets/a0bc1381-aec6-41a3-b02c-3b30873ab7b4)
+
 
 Miembros:
  * :bust_in_silhouette:  Natalia García Ortega     :octocat: https://github.com/ntlagrc    
