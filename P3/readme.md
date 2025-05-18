@@ -2,7 +2,7 @@
 ## Case Study
 Grupo: DIU3_natpa.  Curso: 2024/25 
 
-Actualizado: 12/04/2025
+Actualizado: 18/05/2025
 
 Proyecto: 
 
