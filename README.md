@@ -200,26 +200,22 @@ Así quedaría el layout de la seccíon "Catálogo" de nuestra página para móv
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
 -----
 ![Captura de pantalla 2025-05-16 174640](https://github.com/user-attachments/assets/5ee78961-a8e7-4cb8-a9ae-5824a56a7980)
-
 ![logo_2](https://github.com/user-attachments/assets/a4dc5743-a7e7-4987-90d7-421a10c50e74)
 
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
+### 3.b Landing Page 
 ----
+Con nuestra Landing Page, buscamos transmitir una sensacion de confianza y tranquilidad al usuario
+![LandingPage](https://github.com/user-attachments/assets/56cb747d-1f52-4c17-a480-883d5d9a85b4)
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
+### 3.c Guidelines 
 ----
 
 Esta guía de estilo establece los lineamientos visuales y estructurales utilizados en el diseño de la interfaz del sitio web "MODA RE", desarrollada en Figma utilizando el Material 3 Design Kit como base. Su propósito es asegurar la coherencia visual, la accesibilidad y la correcta implementación del sistema de diseño en todas las pantallas del producto sin perder la identidad visual del proyecto.
@@ -260,9 +256,8 @@ https://github.com/user-attachments/assets/a4168d1a-9232-44e1-89e2-1e417e0681a9
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Hemos documentado todo el proceso de este trabajo en este repositorio github. Si quiere consultar mas informacion acerca de la ultima practe de nuestro proyecto puedes hacerlo aqui:
+[Case Study P3](P3/)
 
 <br>
 
