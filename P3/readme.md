@@ -39,6 +39,7 @@ Miembros:
 
 ![Mockup](https://github.com/user-attachments/assets/14d0b7d9-29fa-4ada-8658-90bd95cae6b6)
 
+Enlace a nuestra demo: [https://www.figma.com/proto/1jpHMNA6sl7MIpvc18Ny0R/Sin-t%C3%ADtulo?node-id=52-899&p=f&t=LLX3A7ggJyBZQnDc-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A55&starting-point-node-id=52%3A899](https://www.figma.com/proto/1jpHMNA6sl7MIpvc18Ny0R/Sin-t%C3%ADtulo?node-id=52-899&p=f&t=LLX3A7ggJyBZQnDc-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A55&starting-point-node-id=52%3A899)
 
 https://github.com/user-attachments/assets/018e7a47-1269-4fd2-b206-6ffa90c578e1
 
