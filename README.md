@@ -247,7 +247,7 @@ Los componentes fueron diseñados con consistencia visual y funcional:
 https://github.com/user-attachments/assets/a4168d1a-9232-44e1-89e2-1e417e0681a9
 
 
-
+Enlace a nuestra demo: [https://www.figma.com/proto/1jpHMNA6sl7MIpvc18Ny0R/Sin-t%C3%ADtulo?node-id=52-899&p=f&t=LLX3A7ggJyBZQnDc-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A55&starting-point-node-id=52%3A899](https://www.figma.com/proto/1jpHMNA6sl7MIpvc18Ny0R/Sin-t%C3%ADtulo?node-id=52-899&p=f&t=LLX3A7ggJyBZQnDc-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A55&starting-point-node-id=52%3A899)
 
 ### 3.e My UX-Case Study
 -----
