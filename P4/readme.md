@@ -12,7 +12,7 @@ A estos usurios los vamos a someter a un cuestionario SUS y a distintas tareas e
 
 ## Cuestionarios SUS
 ![P4-Cuestionario-SUS-DIU _page-0001](https://github.com/user-attachments/assets/be07395a-960b-493b-9875-7fcb853d66be)
-Los dos casos estan situados en el umbral de  ACEPTABLE TIPO B '(EXECELENT 70-80)', teniendo el caso B mejor nota, y ambos con posibilidades de mejora en varios aspectos.
+Los dos casos estan situados en el umbral de  ACEPTABLE TIPO C '(GOOD 70-80)', teniendo el caso B mejor nota, y ambos con posibilidades de mejora en varios aspectos.
 
 
 ## A/B testing 
