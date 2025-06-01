@@ -43,7 +43,8 @@ dado cuenta de que no es una tarea simple todo lo relacionado con UX.
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
 Aliño es un centro de talleres gastronómicos. El fin de la aplicación es conectar a gente
-de cualquier nivel para cocinar con productos locales, frescos y saludables. Una propuesta
+de cualquier nivel para cocinar con productos locales, frescos y saludables. Además ofrece
+la posibilidad de adquirir estos productos en su tienda online. Una propuesta
 sostenible a la vez que una forma de aprender nuevos platos.
 
  
@@ -54,9 +55,21 @@ sostenible a la vez que una forma de aprender nuevos platos.
 
 
 
-[ Breve descripción de lo que contiene el documento 
+La app tiene una sección donde puedes ver los distintos talleres que se ofertan,
+una explicación sobre en qué va a consistir y la opción de inscribirte en ellos.
+Además cuenta con un calendario donde puedes ver los talleres disponibles en los
+días que te venga bien.
+También cuenta con una pequeña tienda online donde adquirir productos locales y sostenibles
+con información sobre estos: precio, procedencia...
+Por ultimo, tiene un apartado con información general sobre el fin de la aplicación
+llamado "Sobre nosostros" y la localización del taller.
 
-y Resumen conciso de problemas detectados ]
+Como problemas detectados señalaré que está el icono del perfil de usuario pero
+en ningun momento te da la opción de crear una cuenta.
+Además, desde la sección "Sobre Nosotros" no puedes volver a la tienda ni a los
+talleres a pesar de que aparezcan los emoticonos para ello. 
+
+
 
 
 
