@@ -302,15 +302,16 @@ Las difrentes tareas a las que se han enfrentado nuestros usuarios y el tiempo y
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
+
+
+El eye-tracking permitió ir más allá de la opinión del usuario y visualizar su comportamiento real en la interfaz, revelando patrones de atención que no siempre coinciden con lo que verbalizan los participantes. Gracias a esto se identificó, por ejemplo, la baja atención hacia ciertos botones (“VER MÁS”) o se confirmó el éxito de los botones de acción rápida (“Reservar”, “Comprar”)
 ----
+![gaze_1](https://github.com/user-attachments/assets/3a1ebc20-2d1e-436d-b6b5-67895c15f2b8)
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+![gaze_2](https://github.com/user-attachments/assets/764e182c-573a-4df4-bc91-11be02ffcb09)
 
+![gaze_3](https://github.com/user-attachments/assets/70c99077-8c46-444a-b0b7-28770beff5ff)
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 4.f Usability Report de B
