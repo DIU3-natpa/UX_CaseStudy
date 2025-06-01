@@ -6,17 +6,18 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Aliño
 
-### (Fecha)
-
-
+### 01/06/2025
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+![logo2](https://github.com/user-attachments/assets/98bfe24d-835d-4a9f-951e-145c74ecae7f)
+
+
+https://github.com/agd03/DIU_Practicas
 
 
 
