@@ -25,7 +25,10 @@ https://github.com/agd03/DIU_Practicas
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+NATPA
+Gracias al análisis de otro proyecto por un lado hemos aprendido de
+algunos errores de usabilidad que teníamos y por otro lado nos hemos 
+dado cuenta de que no es una tarea simple todo lo relacionado con UX.
 
 
 
