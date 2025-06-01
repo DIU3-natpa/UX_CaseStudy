@@ -85,6 +85,10 @@ talleres a pesar de que aparezcan los emoticonos para ello.
 
 [Metodología, sesiones,  técnicas aplicadas... ]
 
+[UsuariosDIU.pdf](https://github.com/user-attachments/files/20539819/UsuariosDIU.pdf)
+
+
+
  
 
 #### Test de usuarios: Participantes
