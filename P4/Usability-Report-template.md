@@ -109,6 +109,8 @@ talleres a pesar de que aparezcan los emoticonos para ello.
 
 
 
+
+|   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 ||PREGUNTAS|1|2|3|4|5|
 |1|Creo que me gustará visitar con frecuencia este website|x|||||
@@ -121,7 +123,6 @@ talleres a pesar de que aparezcan los emoticonos para ello.
 |8|Encontré el website muy grande al recorrerlo||||||
 |9|Me sentí muy confiado en el manejo del website||||||
 |10|Necesito aprender muchas cosas antes de manejarse en el website||||||
-
 
 
 
