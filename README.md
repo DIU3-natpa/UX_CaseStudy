@@ -261,9 +261,6 @@ Hemos documentado todo el proceso de este trabajo en este repositorio de GitHub.
 ### 4.a Reclutamiento de usuarios 
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
 El caso al que vamos a evaluar se trata de una pagina web de talleres de cocina en Granda, con opcion de compra de productos locales. El enlce al repositorio es: [https://github.com/agd03/DIU_Practicas](https://github.com/agd03/DIU_Practicas).
 
 
