@@ -97,7 +97,7 @@ proyecto Aliño. Cada una de estas personas con las siguientes características:
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+
 
 Ana
 
@@ -114,6 +114,8 @@ Ana
 |8|Encontré el website muy grande al recorrerlo|x|||||
 |9|Me sentí muy confiado en el manejo del website|||x|||
 |10|Necesito aprender muchas cosas antes de manejarse en el website|x|||||
+
+
 
 
 Tomás
@@ -139,7 +141,17 @@ Tomás
 
 
 
-(resultado de SUS)
+Los resultados del SUS obtenidos por Ana (92.5) y Tomás (87.5) reflejan una alta percepción de usabilidad del sitio web evaluado.
+Ambos puntajes están muy por encima del promedio estándar de 68, lo que indica que el sitio es percibido como:
+Fácil de usar
+Con funciones bien integradas
+Intuitivo para nuevos usuarios
+Con una curva de aprendizaje baja
+
+En particular:
+Ana, con un puntaje excepcional de 92.5, sugiere una experiencia de usuario muy positiva, sin dificultades notables en el uso o comprensión del sitio.
+Tomás, con 87.5, también mostró una experiencia sólida, aunque ligeramente inferior, lo que podría indicar alguna mínima fricción o preferencia personal,
+sin afectar en gran medida su confianza o satisfacción.
 
 
 
