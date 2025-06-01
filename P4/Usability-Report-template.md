@@ -42,7 +42,9 @@ dado cuenta de que no es una tarea simple todo lo relacionado con UX.
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+Aliño es un centro de talleres gastronómicos. El fin de la aplicación es conectar a gente
+de cualquier nivel para cocinar con productos locales, frescos y saludables. Una propuesta
+sostenible a la vez que una forma de aprender nuevos platos.
 
  
 
