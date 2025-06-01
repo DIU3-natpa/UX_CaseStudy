@@ -149,13 +149,22 @@ Intuitivo para nuevos usuarios
 Con una curva de aprendizaje baja
 
 En particular:
-Ana, con un puntaje excepcional de 92.5, sugiere una experiencia de usuario muy positiva, sin dificultades notables en el uso o comprensión del sitio.
+Ana, con un puntaje excepcional de 92.5, sugiere una experiencia de usuario muy positiva,
+sin dificultades notables en el uso o comprensión del sitio.
 Tomás, con 87.5, también mostró una experiencia sólida, aunque ligeramente inferior, lo que podría indicar alguna mínima fricción o preferencia personal,
 sin afectar en gran medida su confianza o satisfacción.
 
 
 
-(resultado de eyetracking)
+El diseño está guiando bien la mirada hacia los botones de acción clave (“Reservar”, “Comprar”),
+lo cual es positivo desde el punto de vista de conversión.
+Botones “VER MÁS” tienen menor relevancia, lo que sugiere que el contenido está siendo entendido
+sin necesidad de ampliación o que no están bien destacados.
+El encabezado y elementos del menú superior tienen poca atención,
+por lo que podrías considerar revisar su visibilidad o importancia si contienen funciones clave.
+Las imágenes decorativas o ilustrativas no están captando mucha atención,
+lo cual puede estar bien si la prioridad es la acción, pero vale la pena considerar si estas imágenes 
+aportan valor o podrían optimizarse.
 
 
 
@@ -169,25 +178,42 @@ sin afectar en gran medida su confianza o satisfacción.
 
 
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+Las pruebas de usabilidad realizadas, combinando el cuestionario SUS con el análisis de eye-tracking,
+permiten extraer información valiosa sobre la experiencia de usuario con la interfaz de Aliño. 
+En general, los resultados muestran una muy buena percepción de usabilidad, aunque también se
+han identificado áreas específicas que pueden optimizarse.
 
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+No se han registrado fallos críticos de funcionamiento en la interfaz durante las pruebas.
+Algunos usuarios no prestaron atención a ciertos elementos del encabezado (como el buscador
+o el cambio de idioma), lo que podría indicar falta de visibilidad o bajo nivel de prioridad percibida.
+El botón "VER MÁS" pasó mayormente desapercibido frente a los botones de acción directa como "RESERVAR" o "COMPRAR".
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+Altos resultados en la escala SUS: Ana (92.5) y Tomás (87.5), ambos superiores al estándar de 68,
+lo que indica una experiencia percibida como muy positiva.
+La interfaz es intuitiva, clara y fácil de recorrer, incluso para usuarios con experiencia media.
+Los botones de acción principales captan muy bien la atención visual del usuario.
+La estructura vertical y las tarjetas visuales permiten una navegación rápida y lógica.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+Aumentar la visibilidad y relevancia de los botones “VER MÁS” si contienen información importante.
+Se podría usar un estilo más llamativo o cambiar el texto por algo más descriptivo.
+Optimizar el encabezado: el área superior (menú, buscador, cambio de idioma) pasa desapercibida.
+Considerar mayor contraste, iconografía más clara o reorganización del espacio.
+Valorar la utilidad de las imágenes: si no están generando atención significativa, 
+se pueden optimizar para carga rápida o darles un rol más informativo.
+Agregar breves descripciones emergentes o tooltips que indiquen qué ofrece cada taller
+o producto sin necesidad de hacer clic en "VER MÁS".
 
 
 
@@ -197,4 +223,13 @@ sin afectar en gran medida su confianza o satisfacción.
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Las técnicas empleadas (test SUS y eye-tracking) han sido muy útiles y complementarias
+para detectar tanto problemas ocultos como oportunidades de mejora en la interfaz.
+El test SUS proporcionó una visión cuantitativa clara sobre la percepción general de la usabilidad, 
+con resultados que validan que la interfaz es funcional, intuitiva y agradable de usar.
+El eye-tracking permitió ir más allá de la opinión del usuario y visualizar su comportamiento real en la interfaz,
+revelando patrones de atención que no siempre coinciden con lo que verbalizan los participantes.
+Gracias a esto se identificó, por ejemplo, la baja atención hacia ciertos botones (“VER MÁS”)
+o se confirmó el éxito de los botones de acción rápida (“Reservar”, “Comprar”).
+En resumen, estas técnicas fueron altamente efectivas para evaluar tanto la satisfacción como el comportamiento visual del usuario, 
+lo que permitió extraer conclusiones fundamentadas y específicas para seguir mejorando la experiencia del sitio.
