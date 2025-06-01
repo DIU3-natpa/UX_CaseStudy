@@ -16,7 +16,7 @@ Los dos casos estan situados en el umbral de  ACEPTABLE TIPO C '(GOOD 70-80)', t
 
 
 ## A/B testing 
-Las difrentes tareas a las que se han enfrentado nuestros usuarios y el tiempo y dificultad de las misma ha sifo la siguiente:
+Las difrentes tareas a las que se han enfrentado nuestros usuarios y el tiempo y dificultad de las misma han sido la siguiente:
 ![Test_A-B_page-0001](https://github.com/user-attachments/assets/0d03a7a4-41ea-4a49-8ffb-63c5f85f7cdd)
 
 
