@@ -259,45 +259,49 @@ Hemos documentado todo el proceso de este trabajo en este repositorio de GitHub.
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
 -----
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+El caso al que vamos a evaluar se trata de una pagina web de talleres de cocina en Granda, con opcion de compra de productos locales. El enlce al repositorio es: [https://github.com/agd03/DIU_Practicas](https://github.com/agd03/DIU_Practicas).
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Juan Manuel  | H / 58   | Físico / Pre-jubilado  | Alta       | Sereno, Divertido, Activo, Inteligente | Web.       | A 
+| Marta  | M / 20   | Estudiante  | Alta       | Tranquila, Curiosa, Idiomas, Feliz       | Web        | A 
+| Pilar  | M / 57   | Ing. de Caminos     | Media        | Sordera, Tranquila, Trabajadora, Feliz    | Web      | B 
+| Arturo  | H / 26   | Informático  | Alta       | Hiperactivo, Centrado, Muy feliz     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Las pruebas que se han desarrollado han sido las siguientes: <br>
+- Cuestionario SUS.
+- Acceder al botón principal de la web. Para comprobar que tan facil es realizar la accion mas importante que ofrece cada caso.
+- Realizar la opcion desada por la web. Como te dirige la web para que realices la accion que quiere la empresa detras de la pagina.
+- Acceder a informacón. ¿Es fácil para el usaurio encontrar infromación que le pueda ayudar a guiarse o conocer mas sobre el caso?
+- Acceder a la oferta de preductos. El usuario deberia poder las opciones que tiene antes de comprar 
 
 
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+![P4-Cuestionario-SUS-DIU _page-0001](https://github.com/user-attachments/assets/be07395a-960b-493b-9875-7fcb853d66be)
+Los dos casos estan situados en el umbral de  ACEPTABLE TIPO C '(GOOD 70-80)', teniendo el caso B mejor nota, y ambos con posibilidades de mejora en varios aspectos.<br>
+Recursos: <br>
+-[Excel](P4/CuestionarioSUS)
 
 
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
+### 4.d A/B Testing 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Las difrentes tareas a las que se han enfrentado nuestros usuarios y el tiempo y dificultad de las misma han sido la siguiente:
+![Test_A-B_page-0001](https://github.com/user-attachments/assets/0d03a7a4-41ea-4a49-8ffb-63c5f85f7cdd)
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
