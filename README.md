@@ -303,9 +303,10 @@ Las difrentes tareas a las que se han enfrentado nuestros usuarios y el tiempo y
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 
-
 El eye-tracking permitió ir más allá de la opinión del usuario y visualizar su comportamiento real en la interfaz, revelando patrones de atención que no siempre coinciden con lo que verbalizan los participantes. Gracias a esto se identificó, por ejemplo, la baja atención hacia ciertos botones (“VER MÁS”) o se confirmó el éxito de los botones de acción rápida (“Reservar”, “Comprar”)
+
 ----
+
 ![gaze_1](https://github.com/user-attachments/assets/3a1ebc20-2d1e-436d-b6b5-67895c15f2b8)
 
 ![gaze_2](https://github.com/user-attachments/assets/764e182c-573a-4df4-bc91-11be02ffcb09)
