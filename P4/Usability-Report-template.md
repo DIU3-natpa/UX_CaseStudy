@@ -83,7 +83,10 @@ talleres a pesar de que aparezcan los emoticonos para ello.
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+
+Hemos usado A/B Testing, cuestionario SUS y Eye Tracking.
+Hemos creado 4 perfiles de personas, 2 para evaluar nuestro proyecto y 2 para evaluar el
+proyecto Aliño. Cada una de estas personas con las siguientes características:
 
 ![UsuariosDIU_page-0001](https://github.com/user-attachments/assets/3c1c88bf-7f47-4239-8966-8dc0aadfc8c6)
 
@@ -96,38 +99,38 @@ talleres a pesar de que aparezcan los emoticonos para ello.
 
 [tabla, ejemplo, descripción demográfica de los participantes]
 
-
-
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-||PREGUNTAS|1|2|3|4|5|
-|1|Creo que me gustará visitar con frecuencia este website|x|||||
-|2|Encontré el website innecesariamente complejo||||||
-|3|Pensé que era fácil utilizar este website||||||
-|4|Creo que necesitaría del apoyo de un experto para recorrer el website||x||||
-|5|Encontré las funciones del website bastante bien integradas||||||
-|6|Pensé que había demasiada inconsistencia en el website||||||
-|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|||||x|
-|8|Encontré el website muy grande al recorrerlo||||||
-|9|Me sentí muy confiado en el manejo del website||||||
-|10|Necesito aprender muchas cosas antes de manejarse en el website||||||
-
-
-
+Ana
 
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 ||PREGUNTAS|1|2|3|4|5|
-|1|Creo que me gustará visitar con frecuencia este website|x|||||
-|2|Encontré el website innecesariamente complejo||||||
-|3|Pensé que era fácil utilizar este website||||||
-|4|Creo que necesitaría del apoyo de un experto para recorrer el website||x||||
-|5|Encontré las funciones del website bastante bien integradas||||||
-|6|Pensé que había demasiada inconsistencia en el website||||||
+|1|Creo que me gustará visitar con frecuencia este website|||||x|
+|2|Encontré el website innecesariamente complejo||x||||
+|3|Pensé que era fácil utilizar este website|||x|||
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website|x|||||
+|5|Encontré las funciones del website bastante bien integradas|||||x|
+|6|Pensé que había demasiada inconsistencia en el website|x|||||
 |7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|||||x|
-|8|Encontré el website muy grande al recorrerlo||||||
-|9|Me sentí muy confiado en el manejo del website||||||
-|10|Necesito aprender muchas cosas antes de manejarse en el website||||||
+|8|Encontré el website muy grande al recorrerlo|x|||||
+|9|Me sentí muy confiado en el manejo del website|||x|||
+|10|Necesito aprender muchas cosas antes de manejarse en el website|x|||||
+
+
+Tomás
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+||PREGUNTAS|1|2|3|4|5|
+|1|Creo que me gustará visitar con frecuencia este website|||x|||
+|2|Encontré el website innecesariamente complejo||x||||
+|3|Pensé que era fácil utilizar este website||||x||
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website|x|||||
+|5|Encontré las funciones del website bastante bien integradas||||x||
+|6|Pensé que había demasiada inconsistencia en el website||x||||
+|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|||||x|
+|8|Encontré el website muy grande al recorrerlo|x|||||
+|9|Me sentí muy confiado en el manejo del website||||x||
+|10|Necesito aprender muchas cosas antes de manejarse en el website|x|||||
 
 
 
